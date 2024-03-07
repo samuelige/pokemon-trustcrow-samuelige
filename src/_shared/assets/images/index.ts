@@ -1,0 +1,1 @@
+export {default as rounded_primary} from "./rounded_primary.svg?url"

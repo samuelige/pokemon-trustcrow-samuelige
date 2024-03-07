@@ -1,0 +1,1 @@
+export {default as left_arrow_icon} from "./left_arrow_icon.svg?url"

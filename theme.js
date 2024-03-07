@@ -14,7 +14,7 @@ module.exports = {
           600: "#EBEFF2"
         },
         primary: {
-            25: "#401a6d",
+            25: "#004CCC",
             // 25: "#039BF0",
             100: '#F2FAFF'
         },
@@ -52,7 +52,7 @@ module.exports = {
             600: "#EBEFF2"
         },
         primary: {
-            25: "#401a6d",
+            25: "#004CCC",
             // 25: "#039BF0",
             100: '#F2FAFF'
         },
@@ -91,7 +91,7 @@ module.exports = {
             600: "#EBEFF2"
         },
         primary: {
-            25: "#401a6d",
+            25: "#004CCC",
             // 25: "#039BF0",
             100: '#F2FAFF'
         },
